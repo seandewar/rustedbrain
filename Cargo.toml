@@ -1,0 +1,6 @@
+[package]
+name = "rustedbrain"
+version = "1.0.0"
+authors = ["seandewar"]
+
+[dependencies]
